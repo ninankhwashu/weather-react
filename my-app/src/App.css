@@ -9,7 +9,7 @@ body {
   border-radius: 30px;
   display: block;
   margin: 0 auto;
-  margin-top: 80px;
+  margin-top: 150px;
   max-width: 400px;
   padding: 30px;
   background: #e2ebec;
@@ -32,4 +32,14 @@ ul {
   margin: 0 auto;
   display: inline-block;
   text-align: left;
+}
+
+footer {
+  margin-top: 20px;
+  text-align: center;
+}
+
+footer a {
+  color: #e2ebec;
+  text-decoration: none;
 }
